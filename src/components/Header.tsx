@@ -3,6 +3,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+import Logo from "../../public/logo.png"
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -32,7 +33,7 @@ export default function Header() {
       <div className="container mx-auto flex items-center justify-between p-4">
         <div className="flex items-center space-x-4">
           <Avatar>
-            <AvatarImage src="https://github.com/shadcn.png" alt="Azhar Nada" />
+            <AvatarImage src={Logo.src} alt="Azhar Nada" />
             <AvatarFallback>AN</AvatarFallback>
           </Avatar>
           <h1 className={`text-2xl font-bold transition-colors duration-300 ${
