@@ -1,0 +1,14 @@
+{
+    "projects": [
+      {
+        "title": "Denormalized JSON Pipeline",
+        "description": "Pioneered a cutting-edge denormalized JSON pipeline, monitoring, and anomaly detection system of query in BigQuery, achieving a $400 USD monthly cost reduction.",
+        "technologies": ["BigQuery", "JSON", "Anomaly Detection"]
+      },
+      {
+        "title": "Data Discovery and Cataloging Solution",
+        "description": "Innovated a comprehensive data discovery and cataloging solution with DataHub, ensuring 100% data lineage, which drove operational analysis excellence and strategic data initiatives.",
+        "technologies": ["DataHub", "Data Lineage"]
+      }
+    ]
+  }

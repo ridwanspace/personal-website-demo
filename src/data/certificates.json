@@ -1,0 +1,19 @@
+{
+    "certificates": [
+      {
+        "title": "Professional Google Cloud Architect",
+        "issuer": "Google Cloud",
+        "date": "2023"
+      },
+      {
+        "title": "Professional Google Data Engineer",
+        "issuer": "Google Cloud",
+        "date": "2023"
+      },
+      {
+        "title": "AWS Solution Architect Associate",
+        "issuer": "Amazon Web Services",
+        "date": "2022"
+      }
+    ]
+  }

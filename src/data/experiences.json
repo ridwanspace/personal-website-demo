@@ -1,0 +1,26 @@
+{
+    "experiences": [
+      {
+        "title": "Data Engineer",
+        "company": "Moladin",
+        "duration": "November 2023 – Present",
+        "description": "Pioneered cutting-edge data solutions, optimized pipelines, and implemented data governance strategies.",
+        "responsibilities": [
+          "Developed denormalized JSON pipeline",
+          "Orchestrated deployment strategies with Terraform and Kubernetes",
+          "Implemented data contracts and Avro schema-based validation"
+        ]
+      },
+      {
+        "title": "Data Engineer",
+        "company": "Lion Parcel",
+        "duration": "August 2022 – October 2023",
+        "description": "Optimized ELT data pipelines and developed efficient data retrieval methods.",
+        "responsibilities": [
+          "Optimized ELT data pipelines using Docker, Airflow, AWS Redshift",
+          "Built Flask web application to replace spreadsheets",
+          "Developed FastAPI for seamless data sync"
+        ]
+      }
+    ]
+  }
