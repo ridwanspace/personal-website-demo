@@ -34,7 +34,7 @@ export default function Hero() {
                             className="rounded-full border-white text-blue-600 hover:bg-white hover:text-blue-900"
                             asChild
                         >
-                            <a href="./public/CA_example.pdf" download>Download my CV</a>
+                            <a href="https://www.ucmo.edu/offices/career-and-life-design-center/internal-resources/shared/atssampleresume.pdf" download>Download my CV</a>
                         </Button>
                     </div>
                 </div>
