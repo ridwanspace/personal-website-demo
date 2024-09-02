@@ -2,6 +2,8 @@
 import Image from 'next/image'
 import Header from '@/components/Header'
 import Hero from '@/components/Hero'
+import Footer from '@/components/Footer'
+import GoToTop from '@/components/GoToTop'
 import Section from '@/components/Section'
 import { Card, CardHeader, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
@@ -182,6 +184,8 @@ export default function Home() {
           </div>
         </section>
       </main>
+      <Footer />
+      <GoToTop />
     </div>
   )
 }
